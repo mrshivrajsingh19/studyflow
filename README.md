@@ -1,4 +1,4 @@
-Video = https://drive.google.com/file/d/1B_vll896ucrDeOXV3hLMBIXO-7Lsn2EO/view?usp=sharing
+Demo Video = https://drive.google.com/file/d/1B_vll896ucrDeOXV3hLMBIXO-7Lsn2EO/view?usp=sharing
 
 # 🎓 StudyFlow - AI-Powered Study Companion
 
